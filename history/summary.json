@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/solarft.tk",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 794,
-    "timeDay": 1075,
-    "timeWeek": 794,
-    "timeMonth": 794,
-    "timeYear": 794,
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 729,
+    "timeDay": 145,
+    "timeWeek": 729,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2022-06-21": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 56,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 250,
+    "timeDay": 44,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]
