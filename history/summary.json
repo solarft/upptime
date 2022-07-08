@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/solarft.tk",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "95.38%",
+    "uptime": "95.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.38%",
-    "uptimeYear": "95.38%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "95.50%",
     "time": 428,
     "timeDay": 330,
     "timeWeek": 321,
@@ -27,7 +27,7 @@
     "url": "https://iimarcus.netlify.app",
     "icon": "https://favicons.githubusercontent.com/iimarcus.netlify.app",
     "slug": "ii-marcus-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,8 @@
     "timeWeek": 70,
     "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   }
 ]
