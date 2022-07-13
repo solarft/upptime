@@ -27,19 +27,19 @@
     "url": "https://iimarcus.netlify.app",
     "icon": "https://favicons.githubusercontent.com/iimarcus.netlify.app",
     "slug": "ii-marcus-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 1282,
-    "timeWeek": 386,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 230,
+    "timeDay": 652,
+    "timeWeek": 346,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 14
     }
   }
 ]
